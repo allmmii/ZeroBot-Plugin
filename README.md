@@ -54,11 +54,9 @@ zerobot [-c config.json] [-h] [-s config.json] [-t token] [-u url] [-n nickname]
 {
     "zero": {
         "nickname": [
-            "椛椛",
-            "ATRI",
-            "atri",
-            "亚托莉",
-            "アトリ"
+            "阿尔米",
+            "ARM",
+            
         ],
         "command_prefix": "/",
         "super_users": []
