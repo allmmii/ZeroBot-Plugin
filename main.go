@@ -31,9 +31,9 @@ import (
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/atri" // ATRI词库
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/manager" // 群管
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/manager" / 群管
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/thesaurus" // 词典匹配回复
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/thesaurus" / 词典匹配回复
 
 	_ "github.com/FloatTech/zbputils/job" // 定时指令触发器
 
@@ -55,17 +55,17 @@ import (
 	//                          vvvvvvvvvvvvvv                          //
 	//                               vvvv                               //
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ai_false"      // 服务器监控
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/aiwife"        // 随机老婆
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ai_false"      / 服务器监控
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/aiwife"        / 随机老婆
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/b14"           // base16384加解密
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/baidu"         // 百度一下
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/bilibili"      // b站相关
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/baidu"         / 百度一下
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/bilibili"      / b站相关
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/book_review"   // 哀伤雪刃吧推书记录
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/cangtoushi"    // 藏头诗
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/char_reverser" // 英文字符翻转
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/choose"        // 选择困难症帮手
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/chouxianghua"  // 说抽象话
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/coser"         // 三次元小姐姐
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/cangtoushi"    / 藏头诗
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/char_reverser" / 英文字符翻转
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/choose"        / 选择困难症帮手
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/chouxianghua"  / 说抽象话
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/coser"         / 三次元小姐姐
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/cpstory"       // cp短打
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/danbooru"      // DeepDanbooru二次元图标签识别
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/diana"         // 嘉心糖发病
